@@ -42,5 +42,5 @@ def process_ppt_files(folder_path):
             print(f"Text extracted to {output_file}")
 
 # Define your folder path
-folder_path = "path_to_your_file"
+folder_path = "path_to_your_folderssss"
 process_ppt_files(folder_path)
